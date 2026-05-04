@@ -1,15 +1,28 @@
 .identificacao{
-    color: rgb(89, 0, 255);
+    color: rgb(0, 0, 0);
 }
 
-.imagens{
-    width: 20%;
+.galeria{
+    width: 35%;
 }
 
 body{
-    color:rgb(0, 0, 0);
+    background-color:rgb(111, 0, 255);
     font-weight: bold;
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    margin: 20px;
+    padding: 20px;
+    background-color: darkmagenta;
+    color: black;
+    border-radius: 20px;
 }
