@@ -2,14 +2,14 @@
     color: rgb(89, 0, 255);
 }
 
+.imagens{
+    width: 100%;
+}
+
 body{
     color:rgb(0, 0, 0);
     font-weight: bold;
     display: flex;
     align-items: center;
     justify-content: space-around;
-}
-
-.imagens{
-    width: 50%;
 }
