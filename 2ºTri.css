@@ -6,8 +6,6 @@ body{
   font-style: normal;
 }
 
-
-
 .titulo{
     font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
@@ -15,6 +13,8 @@ body{
   font-style: normal;
 }
 
-section{
-    display: flex;
+header{
+    display: grid;
+    grid-template-columns: ;
 }
+
