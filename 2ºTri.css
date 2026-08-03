@@ -21,6 +21,10 @@ header {
     padding: 12px;
 }
 
+.logo{
+  width: 50px;
+}
+
 section{
   display: flex;
 }
