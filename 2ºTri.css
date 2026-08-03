@@ -14,7 +14,12 @@ body{
 }
 
 header{
-    display: grid;
-    grid-template-columns: ;
+    display: flex;
+    background-color: rgb(129, 143, 29);
+    color: #f5f5dc;
+}
+
+section{
+  display: flex;
 }
 
