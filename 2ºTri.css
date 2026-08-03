@@ -13,13 +13,19 @@ body{
   font-style: normal;
 }
 
-header{
+header {
     display: flex;
     background-color: rgb(129, 143, 29);
     color: #f5f5dc;
+    flex-direction: row-reverse;
+    padding: 12px;
 }
 
 section{
   display: flex;
 }
 
+.letras{
+      font-size: 49px;
+    text-transform: uppercase;
+}
