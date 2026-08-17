@@ -47,4 +47,5 @@ footer{
   display: grid;
   grid-template-columns: 20% 80%;
   padding: 12px;
+  background-color: rgb(129, 143, 29);
 }
