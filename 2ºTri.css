@@ -21,11 +21,13 @@ header {
   color: #f5f5dc;
   padding: 12px;
 }
-img{
+
+img {
   width: 80%;
   padding: 12px 0;
   border-radius: 30px;
 }
+
 .logo {
   width: 250px;
 }
@@ -35,17 +37,24 @@ img{
   text-transform: uppercase;
 }
 
-.lado{
-display: grid;
-grid-template-columns: 55% 45%;
-padding: 12px;
-    align-items: center;
-    justify-items: center;
+.lado {
+  display: grid;
+  grid-template-columns: 55% 45%;
+  padding: 12px;
+  align-items: center;
+  justify-items: center;
 }
 
-footer{
+footer {
   display: grid;
   grid-template-columns: 20% 80%;
   padding: 12px;
   background-color: rgb(129, 143, 29);
+}
+
+.tende {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
