@@ -21,13 +21,11 @@ header {
   color: #f5f5dc;
   padding: 12px;
 }
-
-.logo {
-  width: 250px;
+img{
+  width: 30%;
 }
-
-section {
-  display: flex;
+.logo {
+  width: 30%;
 }
 
 .letras {
@@ -38,4 +36,9 @@ section {
 .lado{
 display: grid;
 grid-template-columns: 55% 45%;
+}
+
+footer{
+  display: grid;
+  grid-template-columns: 20% 80%;
 }
