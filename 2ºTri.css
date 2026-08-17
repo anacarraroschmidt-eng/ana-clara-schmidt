@@ -1,35 +1,35 @@
-body{
-    background-color: #f5f5dc;
-    font-family: "Oswald", sans-serif;
+body {
+  background-color: #f5f5dc;
+  font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
 
-.titulo{
-    font-family: "Playfair Display", serif;
+.titulo {
+  font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
 }
 
 header {
-    display: flex;
-    background-color: rgb(129, 143, 29);
-    color: #f5f5dc;
-    flex-direction: row-reverse;
-    padding: 12px;
+  display: flex;
+  background-color: rgb(129, 143, 29);
+  color: #f5f5dc;
+  flex-direction: row-reverse;
+  padding: 12px;
 }
 
-.logo{
+.logo {
   width: 250px;
 }
 
-section{
+section {
   display: flex;
 }
 
-.letras{
-      font-size: 60px;
-    text-transform: uppercase;
+.letras {
+  font-size: 60px;
+  text-transform: uppercase;
 }
