@@ -39,9 +39,12 @@ img{
 display: grid;
 grid-template-columns: 55% 45%;
 padding: 12px;
+    align-items: center;
+    justify-items: center;
 }
 
 footer{
   display: grid;
   grid-template-columns: 20% 80%;
+  padding: 12px;
 }
