@@ -50,6 +50,7 @@ footer {
   grid-template-columns: 20% 80%;
   padding: 12px;
   background-color: rgb(129, 143, 29);
+  color: #f5f5dc;
 }
 
 .tende {
