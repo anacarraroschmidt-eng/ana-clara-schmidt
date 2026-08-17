@@ -15,10 +15,10 @@ body {
 }
 
 header {
-  display: flex;
+  display: grid;
+  grid-template-columns: 80% 20%;
   background-color: rgb(129, 143, 29);
   color: #f5f5dc;
-  flex-direction: row-reverse;
   padding: 12px;
 }
 
@@ -33,4 +33,9 @@ section {
 .letras {
   font-size: 60px;
   text-transform: uppercase;
+}
+
+.lado{
+display: grid;
+grid-template-columns: 55% 45%;
 }
